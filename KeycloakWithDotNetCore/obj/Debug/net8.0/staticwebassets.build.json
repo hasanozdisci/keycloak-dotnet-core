@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fla+WSaW8HIP7bl0N259oADPIeEGvywslFaQXm1dBU0=",
+  "Source": "KeycloakWithDotNetCore",
+  "BasePath": "_content/KeycloakWithDotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

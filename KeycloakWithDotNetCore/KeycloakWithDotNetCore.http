@@ -1,0 +1,6 @@
+@KeycloakWithDotNetCore_HostAddress = http://localhost:5012
+
+GET {{KeycloakWithDotNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
